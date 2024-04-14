@@ -17,7 +17,7 @@ ___
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GeoffDeal&hide_progress=true&theme=transparent)
 
 ## Contact Me
-LinkIn: Coming Soon
+[My LinkedIn](https://www.linkedin.com/in/geoff-deal-50bbb4303/)
 
 Email: geoffdeal@proton.me
 <!---
