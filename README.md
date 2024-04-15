@@ -5,7 +5,7 @@ I'm an aspiring developer who joined the Get Coding program in November 2023 to 
 
 ## Projects
 ### [DailyScroll](https://github.com/GeoffDeal/DailyScroll)
-The DailyScroll is a reader for rss, atom, and YouTube feeds, with additonal weather display. Inpsired by a daily newspaper, it's designed to bring all your content to one place. Built with JavaScript, HTML, and CSS.
+The DailyScroll is a reader for rss, atom, and YouTube feeds, with additonal weather display. Inspired by a daily newspaper, it's designed to bring all your content to one place. Built with JavaScript, HTML, and CSS.
 ![Screenshot 2024-04-10 at 14-19-53 DailyScroll](https://github.com/GeoffDeal/GeoffDeal/assets/141517189/ceb2b1e1-523d-44f2-8391-6b8aa747555f)
 
 ### [Pick-a-Dice](https://github.com/GeoffDeal/Dice-Site)
