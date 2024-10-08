@@ -1,7 +1,7 @@
 # Geoff Deal
 ___
 ## About Me
-I'm an aspiring developer who joined the Get Coding program in November 2023 to leverage my passion for learning and problem solving into a new career.
+I'm a developer who joined the Get Coding program in November 2023 to leverage my passion for learning and problem solving into a new career.
 
 ## Projects
 ### [DailyScroll](https://github.com/GeoffDeal/DailyScroll)
@@ -10,6 +10,9 @@ The DailyScroll is a reader for rss, atom, and YouTube feeds, with additonal wea
 
 ### [Pick-a-Dice](https://github.com/GeoffDeal/Dice-Site)
 A WIP JavaScript webapp to act as a subsitute for some of the stranger dice provided needed by games. Need a letter for Scattergories but misplaced your dice? How about a d24 for Dungeon Crawl Classic? 4d2 for the Game of Ur? Find it here!
+
+### [PullBox](https://geoffdeal.github.io/PullBox/)
+A WIP app for the Heroe4s and Hobbies comic store, to facsilitate the ordering of comic books.
 
 ___
 [![Geoff's GitHub stats](https://github-readme-stats.vercel.app/api?username=GeoffDeal&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
