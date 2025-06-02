@@ -11,8 +11,8 @@ The DailyScroll is a reader for rss, atom, and YouTube feeds, with additonal wea
 ### [Pick-a-Dice](https://github.com/GeoffDeal/Dice-Site)
 A WIP JavaScript webapp to act as a subsitute for some of the stranger dice provided needed by games. Need a letter for Scattergories but misplaced your dice? How about a d24 for Dungeon Crawl Classic? 4d2 for the Game of Ur? Find it here!
 
-### [PullBox](https://geoffdeal.github.io/PullBox/)
-A WIP app for the Heroe4s and Hobbies comic store, to facsilitate the ordering of comic books.
+### [PullBox](https://www.herostash.ca)
+A WIP app for the Heroes and Hobbies comic store, to facsilitate the ordering of comic books.
 
 ___
 [![Geoff's GitHub stats](https://github-readme-stats.vercel.app/api?username=GeoffDeal&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
